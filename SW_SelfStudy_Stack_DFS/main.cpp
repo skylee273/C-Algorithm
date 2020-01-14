@@ -7,7 +7,6 @@ vector <vector<int>> arr;
 
 vector <bool> visit(8, false);
 void dfs(int v) {
-	
 	st.push_back(v);
 	printf("%d ", v);
 	visit[v] = true;
@@ -23,6 +22,15 @@ void dfs(int v) {
 		st.pop_back();
 	}
 }
+void backTrackingDfs(int v) {
+	printf("%d ", v);
+	visit[v] = true;
+	for (int i = 1; i <= 7; ++i) {
+		if (visit[i] == false && arr[v][i] == 1) {
+			backTrackingDfs(i);
+		}
+	}
+}
 int main() {
 	arr.assign(8, vector<int>(8, 0));
 	int v1, v2;
@@ -32,6 +40,9 @@ int main() {
 		arr[v2][v1] = 1;
 	}
 	dfs(1);
+	printf("\n");
+	visit.assign(8, false);
+	backTrackingDfs(1);
 	arr.clear();
 	return 0;
 }
