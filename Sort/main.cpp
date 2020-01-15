@@ -30,10 +30,27 @@ void countingSort(vector<int> &v) {
 	}
 	v = arr;
 }
+
+void quickSort(vector<int> &v, int low, int high) {
+	int pivot = (low + high) / 2;
+	int left = low;
+	int right = high;
+	if (left >= right)
+		return;
+	while (left <= right) {
+		while (v[left] < v[pivot]) left++;
+		while (v[right] > v[pivot]) right--;
+		if (left <= right) {
+			swap(v[left], v[right]);
+			left++;
+			right--;
+		}
+	}
+	quickSort(v, low, right);
+	quickSort(v, left, high);
+}
 void selectionSort(vector<int> &v) {
 	// 주어진 자료들 중 가장 적은 값의 원소부터 차례대로 선택하여 위치를 교환
-	
-	
 	for (int i = 0; i < v.size(); ++i) {
 		int min = v[i];
 		int index = i;
@@ -55,19 +72,21 @@ int main() {
 	vector<int> v;
 	
 	v.push_back(0);
-	v.push_back(4);
-	v.push_back(1);
+	v.push_back(9);
+	v.push_back(2);
 	v.push_back(3);
 
+	v.push_back(8);
+	v.push_back(5);
 	v.push_back(1);
-	v.push_back(2);
-	v.push_back(4);
-	v.push_back(1);
+	v.push_back(8);
 	
-	/*bubbleSort(v);
-	printSort(v);
-	countingSort(v);
-	printSort(v);*/
-	selectionSort(v);
+	//bubbleSort(v);
+	//printSort(v);
+	//countingSort(v);
+	//printSort(v);
+	//selectionSort(v);
+	//printSort(v);
+	quickSort(v,0, v.size()-1);
 	printSort(v);
 }
