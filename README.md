@@ -41,6 +41,7 @@
     * [[S/W 문제해결 스택 구현] - 계산기](https://github.com/skylee273/Algorithm/tree/master/Stack_InfixToPostFix_Calculator)
     * [[SW 문제해결 Self Study Book Ⅰ] - DFS](https://github.com/skylee273/Algorithm/tree/master/SW_SelfStudy_Stack_DFS)
     * [[S/W 문제해결 기본] 7일차 - 미로1](https://github.com/skylee273/Algorithm/tree/master/SW1226)
+    * [[S/W 문제해결 기본] 4일차 - 거듭 제곱](https://github.com/skylee273/Algorithm/tree/master/SW1217)
     
 
 ## 5. Search / (Binary, Bruteforce)
