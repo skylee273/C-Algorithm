@@ -34,6 +34,7 @@
 * Sw Expert Academy(삼성 SW 아카데미)
     * [[S/W 문제해결 문자열 구현] - Kmp, BoyerMoore, BruteForce](https://github.com/skylee273/Algorithm/tree/master/String)
     * [[S/W 문제해결 기본] 3일차 - String](https://github.com/skylee273/Algorithm/tree/master/SW1213)
+    * [[S/W 문제해결 기본] 3일차 - 회문1](https://github.com/skylee273/Algorithm/tree/master/SW1215)
 
 ## 4. Stack / (BackTracking)
 * Sw Expert Academy(삼성 SW 아카데미)
