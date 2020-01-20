@@ -46,6 +46,7 @@
     * [[S/W 문제해결 기본] 4일차 - 거듭 제곱](https://github.com/skylee273/Algorithm/tree/master/SW1217)
     * [[S/W 문제해결 기본] 4일차 - 괄호 짝짓기](https://github.com/skylee273/Algorithm/tree/master/SW1218)
     * [[S/W 문제해결 기본] 4일차 - 길찾기](https://github.com/skylee273/Algorithm/tree/master/SW1219)
+    * [[S/W 문제해결 기본] 6일차 - 계산기1](https://github.com/skylee273/Algorithm/tree/master/SW1222)
     
 
 ## 5. Search / (Binary, Bruteforce)
