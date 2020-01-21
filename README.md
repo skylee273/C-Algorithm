@@ -19,6 +19,7 @@
     * [[Programmers] - 두 정수 사이의 합](https://github.com/skylee273/Algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%91%90%EC%A0%95%EC%88%98%EC%82%AC%EC%9D%B4%EC%9D%98%ED%95%A9_Lv1)
 
 
+
 ## 2. Array 
 * Sw Expert Academy(삼성 SW 아카데미)
 	* [[S/W 문제해결 기본] 1일차 - 최빈수 구하기](https://github.com/skylee273/Algorithm/tree/master/SW1204)
@@ -48,6 +49,7 @@
     * [[S/W 문제해결 기본] 4일차 - 길찾기](https://github.com/skylee273/Algorithm/tree/master/SW1219)
     * [[S/W 문제해결 기본] 6일차 - 계산기1](https://github.com/skylee273/Algorithm/tree/master/SW1222)
     * [[S/W 문제해결 기본] 6일차 - 계산기2](https://github.com/skylee273/Algorithm/tree/master/SW1223)
+    * [[S/W 문제해결 기본] 6일차 - 계산기3](https://github.com/skylee273/Algorithm/tree/master/SW1224)
     
 
 ## 5. Search / (Binary, Bruteforce)
@@ -81,6 +83,13 @@
     * [[S/W 문제해결 기본] 7일차 - 암호생성기](https://github.com/skylee273/Algorithm/tree/master/SW1225)
     * [[S/W 문제해결 기본] 7일차 - 미로1](https://github.com/skylee273/Algorithm/tree/master/SW1226(BFS))
     * [[S/W 문제해결 기본] 7일차 - 미로2](https://github.com/skylee273/Algorithm/tree/master/SW1227(BFS))
+
+## 98. CodeBattle / (95)
+* Sw Expert Academy(삼성 SW 아카데미)
+    * [[S/W 코드배틀] 95 - 석찬이의 받아쓰기](https://github.com/skylee273/Algorithm/tree/master/Battle95_1)
+    * [[S/W 코드배틀] 95 - 배열의 분할 (진행중)](https://github.com/skylee273/Algorithm/tree/master/Battle96_2)
+
+    
 
 ## 99. Shortcut
 * VisualStudio 2015 C++
