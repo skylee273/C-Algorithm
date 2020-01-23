@@ -87,7 +87,7 @@
 ## 98. CodeBattle / (95)
 * Sw Expert Academy(삼성 SW 아카데미)
     * [[S/W 코드배틀] 95 - 석찬이의 받아쓰기](https://github.com/skylee273/Algorithm/tree/master/Battle95_1)
-    * [[S/W 코드배틀] 95 - 배열의 분할 (진행중)](https://github.com/skylee273/Algorithm/tree/master/Battle96_2)
+    * [[S/W 코드배틀] 95 - 배열의 분할 ](https://github.com/skylee273/Algorithm/tree/master/Battle95_2)
 
     
 
