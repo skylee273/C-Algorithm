@@ -88,6 +88,8 @@
 * Sw Expert Academy(삼성 SW 아카데미)
     * [[S/W 문제해결 기본] 8일차 - 암호문1](https://github.com/skylee273/Algorithm/tree/master/SW1228)
     * [[S/W 문제해결 기본] 8일차 - 암호문2](https://github.com/skylee273/Algorithm/tree/master/SW1229)
+    * [[S/W 문제해결 기본] 8일차 - 암호문3](https://github.com/skylee273/Algorithm/tree/master/SW1230)
+
 
 ## 98. CodeBattle / (95)
 * Sw Expert Academy(삼성 SW 아카데미)
