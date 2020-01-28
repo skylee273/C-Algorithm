@@ -84,6 +84,10 @@
     * [[S/W 문제해결 기본] 7일차 - 미로1](https://github.com/skylee273/Algorithm/tree/master/SW1226(BFS))
     * [[S/W 문제해결 기본] 7일차 - 미로2](https://github.com/skylee273/Algorithm/tree/master/SW1227(BFS))
 
+## 10. List / 
+* Sw Expert Academy(삼성 SW 아카데미)
+    * [[S/W 문제해결 기본] 8일차 - 암호문1](https://github.com/skylee273/Algorithm/tree/master/SW1225)
+
 ## 98. CodeBattle / (95)
 * Sw Expert Academy(삼성 SW 아카데미)
     * [[S/W 코드배틀] 95 - 석찬이의 받아쓰기](https://github.com/skylee273/Algorithm/tree/master/Battle95_1)
