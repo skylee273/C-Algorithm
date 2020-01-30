@@ -32,7 +32,7 @@
     * [[S/W 문제해결 기본] 2일차 - Ladder1](https://github.com/skylee273/Algorithm/tree/master/SW1210)
     * [[Array] 대표문제-Gravity](https://github.com/skylee273/Algorithm/tree/master/SW_SelfStudy_1_Gravity)
     * [[Array] 순열, 정렬, 대표문제-Baby Gin Game](https://github.com/skylee273/Algorithm/tree/master/SW_SelfStudy_1_BabyGin)
-    * [ [Array] 비트 연산자,대표문제-집합의 합](https://github.com/skylee273/Algorithm/tree/master/SW_SelfStudy_1_SubSetSum)
+    * [ [Array] 비트 연산자,대표문제-집합의 합★★★](https://github.com/skylee273/Algorithm/tree/master/SW_SelfStudy_1_SubSetSum)
 
 ## 3. String / (Kmp, BoyerMoore, BruteForce)
 * Sw Expert Academy(삼성 SW 아카데미)
