@@ -93,8 +93,9 @@
 ## 11. Tree / 
 * Sw Expert Academy(삼성 SW 아카데미)
     * [[S/W 문제해결 기본] 9일차 - 트리구현](https://github.com/skylee273/Algorithm/tree/master/Tree)
-    * [[S/W 문제해결 기본] 9일차 - 중위순회](https://github.com/skylee273/Algorithm/tree/master/SW1231)
-    * [[S/W 문제해결 기본] 9일차 - 사칙연산 유효성 검사](https://github.com/skylee273/Algorithm/tree/master/SW1233)
+    * [[S/W 문제해결 기본] 9일차 - 중위순회 ★](https://github.com/skylee273/Algorithm/tree/master/SW1231)
+    * [[S/W 문제해결 기본] 9일차 - 사칙연산 유효성 검사★★](https://github.com/skylee273/Algorithm/tree/master/SW1233)
+    * [[S/W 문제해결 기본] 9일차 - 사칙연산 ★★★](https://github.com/skylee273/Algorithm/tree/master/SW1232)
 
 ## 98. CodeBattle / (95)
 * Sw Expert Academy(삼성 SW 아카데미)
