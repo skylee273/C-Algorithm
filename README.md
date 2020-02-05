@@ -10,6 +10,7 @@
     * [N줄덧셈](https://github.com/skylee273/Algorithm/tree/master/SW2025)
     * [서랍의 비밀번호](https://github.com/skylee273/Algorithm/tree/master/SW2043)
     * [스탬프 찍기](https://github.com/skylee273/Algorithm/tree/master/SW2046)
+    * [[S/W 문제해결 응용] 1일차 - 단순 2진 암호코드 ★★★](https://github.com/skylee273/Algorithm/tree/master/SW1240)
 * BackJoon(백준)
     * [손익분기점](https://github.com/skylee273/Algorithm/tree/master/BackJoon_1712)
 * Programmers(프로그래머스)
@@ -32,7 +33,9 @@
     * [[S/W 문제해결 기본] 2일차 - Ladder1](https://github.com/skylee273/Algorithm/tree/master/SW1210)
     * [[Array] 대표문제-Gravity](https://github.com/skylee273/Algorithm/tree/master/SW_SelfStudy_1_Gravity)
     * [[Array] 순열, 정렬, 대표문제-Baby Gin Game](https://github.com/skylee273/Algorithm/tree/master/SW_SelfStudy_1_BabyGin)
-    * [ [Array] 비트 연산자,대표문제-집합의 합★★★](https://github.com/skylee273/Algorithm/tree/master/SW_SelfStudy_1_SubSetSum)
+    * [[Array] 비트 연산자,대표문제-집합의 합★★★](https://github.com/skylee273/Algorithm/tree/master/SW_SelfStudy_1_SubSetSum)
+    * [[Array] 이진검색](https://github.com/skylee273/Algorithm/tree/master/SW_SelfStudy_1_BinarySearch)
+    * [[Array] 배열의 순회](https://github.com/skylee273/Algorithm/tree/master/SW_SelfStudy_1_MatrixArraySort)
 
 ## 3. String / (Kmp, BoyerMoore, BruteForce)
 * Sw Expert Academy(삼성 SW 아카데미)
