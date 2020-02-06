@@ -61,6 +61,8 @@
 ## 5. Search / (Binary, Bruteforce)
 * Sw Expert Academy(삼성 SW 아카데미)
     * [[S/W 문제해결 검색 구현] - 이진검색](https://github.com/skylee273/Algorithm/tree/master/Search)
+    * [[S/W 문제해결 응용] 2일차 - 균형점 ★★](https://github.com/skylee273/Algorithm/tree/master/SW1245)
+    
 * Programmers(프로그래머스)
     * [[Programmers] - 모의고사](https://github.com/skylee273/Algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
 ## 6. Sort / (Quick, Selection, Bubble, Counting)
