@@ -37,7 +37,7 @@
     * [[Array] 이진검색](https://github.com/skylee273/Algorithm/tree/master/SW_SelfStudy_1_BinarySearch)
     * [[Array] 배열의 순회](https://github.com/skylee273/Algorithm/tree/master/SW_SelfStudy_1_MatrixArraySort)
 
-## 3. String / (Kmp, BoyerMoore, BruteForce)
+## 3. String / (Kmp, BoyerMoore)
 * Sw Expert Academy(삼성 SW 아카데미)
     * [[S/W 문제해결 문자열 구현] - Kmp, BoyerMoore, BruteForce](https://github.com/skylee273/Algorithm/tree/master/String)
     * [[S/W 문제해결 기본] 3일차 - String](https://github.com/skylee273/Algorithm/tree/master/SW1213)
@@ -58,7 +58,7 @@
     * [[S/W 문제해결 기본] 6일차 - 계산기3](https://github.com/skylee273/Algorithm/tree/master/SW1224)
     
 
-## 5. Search / (Binary, Bruteforce)
+## 5. Search / (Binary)
 * Sw Expert Academy(삼성 SW 아카데미)
     * [[S/W 문제해결 검색 구현] - 이진검색](https://github.com/skylee273/Algorithm/tree/master/Search)
     * [[S/W 문제해결 응용] 2일차 - 균형점 ★★](https://github.com/skylee273/Algorithm/tree/master/SW1245)
@@ -104,6 +104,23 @@
     * [[S/W 문제해결 기본] 9일차 - 중위순회 ★](https://github.com/skylee273/Algorithm/tree/master/SW1231)
     * [[S/W 문제해결 기본] 9일차 - 사칙연산 유효성 검사★★](https://github.com/skylee273/Algorithm/tree/master/SW1233)
     * [[S/W 문제해결 기본] 9일차 - 사칙연산 ★★★](https://github.com/skylee273/Algorithm/tree/master/SW1232)
+
+
+## 97. Algorithm Problem Solving Strategies
+* Bruteforce - 가능한 경우의 수를 일일이 나열하면서 답을 찾는 방법을 의미 한다. 흔히 완전 탐색(exhaustive search) 라고 부른다.
+    * `B` - Beginner, `I` - Intermediate, `A` - Advanced
+    * `B` [[APSS] 코드 6.2 - 조합](https://github.com/skylee273/Algorithm/tree/master/Apss_6.2)
+    * `B` [[APSS] 코드 6.2 - 보글 게임 ](https://github.com/skylee273/Algorithm/tree/master/Apss_6.3)
+    * `B` [[APSS] 코드 6.4 - 소풍](https://github.com/skylee273/Algorithm/tree/master/Apss_6.3)
+    * `B` [[APSS] 코드 6.5 - 소풍(중복제거)](https://github.com/skylee273/Algorithm/tree/master/Apss_6.3)
+    * `B` [[APSS] 코드 6.6 - 게임판 덮기](https://github.com/skylee273/Algorithm/tree/master/Apss_6.3)
+    * `B` [[APSS] 코드 6.7 - 외판원 문제](https://github.com/skylee273/Algorithm/tree/master/Apss_6.3)
+    * `I` [[APSS] 코드 6.8 - 시계 맞추기](https://github.com/skylee273/Algorithm/tree/master/Apss_6.3)
+
+
+
+
+
 
 ## 98. CodeBattle / (95)
 * Sw Expert Academy(삼성 SW 아카데미)
